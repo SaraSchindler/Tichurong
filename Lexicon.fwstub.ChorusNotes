@@ -1,1 +1,14 @@
-<notes version='0'/>
+<?xml version="1.0" encoding="utf-8"?>
+<notes
+	version="0">
+	<annotation
+		class="question"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=425a4c54-8de1-4a07-9f04-bbd69c8ebe8f&amp;tag=&amp;id=425a4c54-8de1-4a07-9f04-bbd69c8ebe8f&amp;label=Si"
+		guid="2916bd6a-84fd-40c4-b63a-9e698fb2e175">
+		<message
+			author="Marius"
+			status=""
+			date="2022-08-15T10:18:11+05:45"
+			guid="b357fdab-aa95-4318-8957-fd58c6ec700f">Discussion of the frog story, 3. Recording, 14:00 contrasts subo « the three of them » with sibo «the four of them» with a clearly noticeable tonal difference, downstep in the former, upstep in the latter case !</message>
+	</annotation>
+</notes>
